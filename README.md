@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ize-G
 - 👀 I’m interested in applying code to data analytics
-- 🌱 I’m currently learning python
+- 🌱 I’m currently the core concepts of software engineering using C, CSS and HTML
 - 💞️ I’m looking to collaborate on beginner friendly projects
 - 📫 How to reach me gominahblessing@gmail.com
 
